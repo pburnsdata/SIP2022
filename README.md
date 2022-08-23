@@ -1,2 +1,2 @@
-# SIP_2022
-PowerPoint from my Safety Graphics presentation for the Statistical Innovation in Pharma session of SIP 2022
+# Statistics in Pharmaceuticals 2022 (SIP2022)
+PowerPoint deck from the *Safety Graphics: Cross-industry Collaboration to Improve Patient Safety using Open-Source Tools* presentation for the *Statistical Innovation in Pharma* session of [**SIP 2022**](https://events.stat.uconn.edu/SIP2022/)
